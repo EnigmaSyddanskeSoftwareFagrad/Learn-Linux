@@ -172,6 +172,8 @@ _Search for a file from root up called important-document.txt_
 find / -name 'important-document.txt'
 ```
 
+To get a faster and more interactive file finder, we reccommend using "fzf" which is a fuzzy finder for files. 
+
 ## 12 passwd
 
 Linux is much more than just the filesystem, we have users, groups and much more. And with multiple users come differences in access, and that introduces the requirements of things like passwords. As such as a new user, you are likely to need a way to change your password.</br>
